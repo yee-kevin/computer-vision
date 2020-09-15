@@ -10,3 +10,11 @@ Part 2 (k-nearest neighbor & softmax classifier) - train a knn classifier and so
 #### 2. HW2 [Code] - Part 1 (Tensorflow exercises), Part 2 (Manual implementation of CNN layers in Tensorflow)
 Part 1 (Tensorflow exercises) - create CIFAR10 dataset, initialise and train two/three-layer networks  
 Part 2 (Manual forward/backward implementation of CNN layers) - affine, ReLU, softmax, convolution, max-pooling, dropout 
+
+#### 3. HW3 [Code] - Generative Adversarial Networks (GAN), Style Transfer, Network Visualisation in Tensorflow
+Generative Adversarial Networks - Vanilla GAN, Least-square GAN (LS-GAN), Deep Convolutional GAN (DCGAN) on MNIST dataset    
+Style Transfer - Implementation of "Image Style Transfer using Convolutional Neural Networks" (Gatys et al., CVPR 2015)  
+Network Visualisation - Using image gradients to generate new images  
+(a) Saliency Maps: Saliency maps are a quick way to tell which part of the image influenced the classification decision made by the network.  
+(b) Fooling Images: We can perturb an input image so that it appears the same to humans, but will be misclassified by the pretrained network.  
+(c) Class Visualization: We can synthesize an image to maximize the classification score of a particular class; this can give us some sense of what the network is looking for when it classifies images of that class.  
