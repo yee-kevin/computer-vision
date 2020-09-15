@@ -17,7 +17,7 @@ Part 2 (Manual forward/backward implementation of CNN layers) - affine, ReLU, so
 | :---------------------------: |:---------------------------: |:---------------------------: |
 | ![Image of vanilla gan](imgs/vanilla-gan.png) | ![Image of least squares gan](imgs/ls-gan.png) |![Image of dcgan](imgs/dc-gan.png) |
 
-(ii) Style Transfer - Implementation of "Image Style Transfer using Convolutional Neural Networks" (Gatys et al., CVPR 2015) 
+(ii) Style Transfer - Implementation of "Image Style Transfer using Convolutional Neural Networks" (Gatys et al., CVPR 2015)  
 (iii) Network Visualisation - Using image gradients to generate new images  
 (a) Saliency Maps: Saliency maps are a quick way to tell which part of the image influenced the classification decision made by the network.  
 (b) Fooling Images: We can perturb an input image so that it appears the same to humans, but will be misclassified by the pretrained network.  
