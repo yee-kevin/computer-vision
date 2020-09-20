@@ -24,7 +24,7 @@ Style transfer examples:
 | <img src="imgs/input-source.jpg" width="304" height="231"> | <img src="imgs/style-source-1.jpg" width="304" height="231"> | <img src="imgs/style-transfer-1.png" width="304" height="231"> |
 | <img src="imgs/input-source.jpg" width="304" height="231"> | <img src="imgs/style-source-2.jpg" width="304" height="231"> | <img src="imgs/style-transfer-2.png" width="304" height="231"> |  
 
-Feature Inversion - Implementation of "Understanding Deep Image Representations by Inverting them" (Aravindh Mahendran et al., CVPR 2015)
+Feature Inversion - Implementation of "Understanding Deep Image Representations by Inverting them" (Aravindh Mahendran et al., CVPR 2015)  
 Feature inversion examples:
 |		  original input image	     | 		  style source image      |  feature inversion image	     | 
 | :---------------------------: |:---------------------------: |:---------------------------: |
